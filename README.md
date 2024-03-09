@@ -7,7 +7,7 @@ A project buildling a hair salon using bootstrap.
 
 Link to project: [https://mrileyclark.github.io/hair-salon-bootstrap/]
 
-<img src="https://github.com/mrileyclark/Landing-Page-with-Countdown/blob/main/records-project.png" width="50%" height="30%">
+<img src="https://github.com/mrileyclark/hair-salon-bootstrap/blob/main/hairsalon.png" width="50%" height="30%">
 
 
 ****
