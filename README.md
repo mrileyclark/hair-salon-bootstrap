@@ -22,6 +22,6 @@ Hair Salon with Bootstrap -
 
  ## Lessons Learned: 
 
-
+I plan on revisiting to incorporate mobile responsive design.
 
 
