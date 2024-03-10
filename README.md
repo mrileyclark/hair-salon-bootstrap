@@ -13,8 +13,6 @@ This project is a simple yet elegant website template for a hair salon, designed
 
 ## Features:
 
-- Responsive Design: Ensures seamless viewing experience across various devices, including desktops, tablets, and smartphones.
-- Navigation Bar: The navigation bar allows easy access to different sections of the website, including Home, About, Services, Lookbook, News, and Contact.
 - Hero Section: The hero section features a captivating image background with overlaid text, inviting visitors to explore salon services.
 - Service Highlights: Prominent features of the salon, such as expert beauticians, quality services, and beauty products, are highlighted with engaging visuals and descriptive text.
 - Stylist Showcase: Meet the salon's talented stylists through stylish card components showcasing their images and roles within the salon.
